@@ -1,0 +1,11 @@
+Neural network consists of neurons. Neurons are simply which consists digit.
+Each Neuron takes input, applies weight and adds bias and produces output/a value.
+The raw value is often called activation (before applying function) or pre-activation.
+
+But "activation" in many context means the final output of the neuron after applying activation function.
+So, ACTIVATION = the output value of a neuron.
+
+An activation function is a function applied to the neuron's output.
+First compute: z=w.x+b
+the apply activation function: a=f(z)
+
